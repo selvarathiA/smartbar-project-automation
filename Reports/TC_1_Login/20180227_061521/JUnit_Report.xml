@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_1_Login" time="14" tests="1" failures="0" errors="0">
+   <testsuite name="TC_1_Login" tests="1" failures="0" errors="0" time="14" timestamp="2018-02-27 06:15:29" hostname="Welcome - 192.168.1.115" id="Test Suites/TC_1_Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Welcome\\Katalon Studio\\Smartbar_Automation_project\\Reports\\TC_1_Login\\20180227_061521"/>
+         <property name="logFiles" value="C:\\Users\\Welcome\\Katalon Studio\\Smartbar_Automation_project\\Reports\\TC_1_Login\\20180227_061521\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Welcome - 192.168.1.115"/>
+         <property name="os" value="Windows 8.1 32bit"/>
+         <property name="katalonVersion" value="unknown"/>
+         <property name="browser" value="Chrome 64.0.3282.167"/>
+         <property name="hostAddress" value="192.168.1.115"/>
+         <property name="sessionId" value="7320aa37bfc87b354f58f27533dd64b6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/TC_1_Login" classname="Test Cases/TC_1_Login" status="PASSED">
+         <system-out><![CDATA[2018-02-27 06:15:30 - [TEST_CASE][PASSED] - Test Cases/TC_1_Login: Test Cases/TC_1_Login
+
+2018-02-27 06:15:31 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-02-27 06:15:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-02-27 06:15:35 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://beta1.beerboard.com/' successfully
+
+2018-02-27 06:15:39 - [MESSAGE][PASSED] - Navigate to 'http://beta1.beerboard.com/' successfully
+
+2018-02-27 06:15:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/button_Dont Allow' is clicked on
+
+2018-02-27 06:15:41 - [MESSAGE][PASSED] - Object: 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/button_Dont Allow' is clicked on
+
+2018-02-27 06:15:41 - [TEST_STEP][PASSED] - setText: Text 'testdolly' is set on object 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/input_useremail'
+
+2018-02-27 06:15:42 - [MESSAGE][PASSED] - Text 'testdolly' is set on object 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/input_useremail'
+
+2018-02-27 06:15:42 - [TEST_STEP][PASSED] - setText: Text 'Password' is set on object 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/input_userpassword'
+
+2018-02-27 06:15:42 - [MESSAGE][PASSED] - Text 'Password' is set on object 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/input_userpassword'
+
+2018-02-27 06:15:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/span_Login' is clicked on
+
+2018-02-27 06:15:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TC_1_Login/Page_Welcome to SmartBar/span_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-02-27 06:15:29 - [TEST_SUITE][PASSED] - TC_1_Login: Test Cases/TC_1_Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

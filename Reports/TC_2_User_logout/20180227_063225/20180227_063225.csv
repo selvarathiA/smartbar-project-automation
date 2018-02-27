@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TC_2_User_logout,,,2018-02-27 06:32:40,2018-02-27 06:32:43,2.475s,FAILED
+,,,,,,
+Test Cases/TC_2_User_Logout,,,2018-02-27 06:32:41,2018-02-27 06:32:43,1.541s,FAILED
+click,,,2018-02-27 06:32:42,2018-02-27 06:32:43,0.693s,FAILED

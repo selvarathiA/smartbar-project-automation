@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_2_User_logout" time="2" tests="0" failures="1" errors="0">
+   <testsuite name="TC_2_User_logout" tests="0" failures="1" errors="0" time="2" timestamp="2018-02-27 06:32:40" hostname="Welcome - 192.168.1.115" id="Test Suites/TC_2_User_logout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Welcome\\Katalon Studio\\Smartbar_Automation_project\\Reports\\TC_2_User_logout\\20180227_063225"/>
+         <property name="logFiles" value="C:\\Users\\Welcome\\Katalon Studio\\Smartbar_Automation_project\\Reports\\TC_2_User_logout\\20180227_063225\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Welcome - 192.168.1.115"/>
+         <property name="hostAddress" value="192.168.1.115"/>
+         <property name="os" value="Windows 8.1 32bit"/>
+         <property name="katalonVersion" value="unknown"/>
+      </properties>
+      <testcase name="Test Cases/TC_2_User_Logout" classname="Test Cases/TC_2_User_Logout" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)"/>
+         <system-out><![CDATA[2018-02-27 06:32:41 - [TEST_CASE][FAILED] - Test Cases/TC_2_User_Logout: Test Cases/TC_2_User_Logout FAILED because (of) Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-02-27 06:32:42 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-02-27 06:32:43 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-02-27 06:32:43 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+         <system-err><![CDATA[2018-02-27 06:32:41 - [TEST_CASE][FAILED] - Test Cases/TC_2_User_Logout: Test Cases/TC_2_User_Logout FAILED because (of) Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-02-27 06:32:40 - [TEST_SUITE][FAILED] - TC_2_User_logout: Test Cases/TC_2_User_Logout FAILED because (of) Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+      <system-err><![CDATA[2018-02-27 06:32:40 - [TEST_SUITE][FAILED] - TC_2_User_logout: Test Cases/TC_2_User_Logout FAILED because (of) Unable to click on object 'Object Repository/TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'ACER', ip: '192.168.1.115', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+   </testsuite>
+</testsuites>

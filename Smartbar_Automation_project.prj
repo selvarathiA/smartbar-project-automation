@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>It includes all the scenerios and testcases for smartbar.</description>
+   <name>Smartbar_Automation_project</name>
+   <tag></tag>
+   <UUID>348b485d-123c-4029-a4c6-11f2836c456c</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>

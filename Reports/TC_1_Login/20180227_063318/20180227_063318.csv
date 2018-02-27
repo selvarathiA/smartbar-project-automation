@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TC_1_Login,Chrome 64.0.3282.167,,2018-02-27 06:33:22,2018-02-27 06:33:29,7.195s,ERROR
+,,,,,,
+Test Cases/TC_1_Login,Chrome 64.0.3282.167,,2018-02-27 06:33:23,2018-02-27 06:33:29,5.484s,ERROR
+openBrowser,Chrome 64.0.3282.167,,2018-02-27 06:33:24,2018-02-27 06:33:28,4.391s,PASSED
+navigateToUrl,Chrome 64.0.3282.167,,2018-02-27 06:33:28,2018-02-27 06:33:28,0.006s,PASSED
